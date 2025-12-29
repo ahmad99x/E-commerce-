@@ -46,7 +46,7 @@ npm start
 
 ## 🌐 Live Demo
 
-[View Live Demo]([https://your-app.vercel.app](https://melodious-kataifi-ce21f4.netlify.app/login))
+[View Live Demo](https://melodious-kataifi-ce21f4.netlify.app/login))
 
 ## 📝 Project Requirements
 
