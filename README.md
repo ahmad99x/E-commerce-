@@ -44,9 +44,6 @@ npm install
 npm start
 ```
 
-## 🌐 Live Demo
-
-[View Live Demo](https://melodious-kataifi-ce21f4.netlify.app/login))
 
 ## 📝 Project Requirements
 
